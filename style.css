@@ -1,0 +1,31 @@
+h1{
+    color: red;
+    font-size: 70px;
+    font-family: monotype corsiva;
+}
+
+img{
+    width: 620px;
+    height: 800px;
+}
+.t1{
+    height: 700px;
+}
+
+a{
+    padding: 10px;
+    color: blue;
+    background: yellow;
+    border-radius: 20px;
+    border: 2px double blue;
+    text-decoration: none;
+}
+
+.t2{
+    height: 450px;
+    width: 450px;
+}
+
+body{
+    background: #00FF4D;
+}
